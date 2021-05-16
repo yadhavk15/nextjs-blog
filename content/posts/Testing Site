@@ -4,8 +4,8 @@ title: "Testing MDX"
 date: 2021-05-16
 author: Yadhav Kumar Nundlall
 tags:
-  - Exploration
-  - Why not?
+  - style
+  - mdx
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in MDX.
